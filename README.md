@@ -43,5 +43,8 @@
 > - 각 모델들을 학습한 소스 코드
 > - Google의 Colab으로 작성하였습니다.
 
+>## [Portfolio] YOLOv5_basic.pptx
+> - 해당 과정 포트폴리오 ppt 입니다.
+
 
 
